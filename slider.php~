@@ -1,0 +1,23 @@
+<?php include("header.iosslider.inc.php"); ?>
+
+<div id="content">
+<!-- slider container -->
+<div class = 'iosSlider'>
+	
+	<!-- slider -->
+	<div class = 'slider'>
+	
+		<!-- slides -->
+		<div class = 'slide'><img src="images/large/1.jpg"><div>
+		<div class = 'slide'><img src="images/large/2.jpg"><div>
+		<div class = 'slide'><img src="images/large/3.jpg"><div>
+
+	</div>
+
+</div>
+
+
+</div>
+</div>
+
+<?php include("footer.inc.php"); ?>

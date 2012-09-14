@@ -1,0 +1,27 @@
+/* slider container */
+.iosSlider {
+	/* required */
+	position: relative;
+	top: 0;
+	left: 0;
+	overflow: hidden;
+	
+	width: 1024px;
+	height: 580px;
+}
+
+/* slider */
+.iosSlider .slider {
+	/* required */
+	width: 100%;
+	height: 100%;
+}
+
+/* slide */
+.iosSlider .slider .slide {
+	/* required */
+	float: left;
+
+	width: 100px;
+	height: 200px;
+}
