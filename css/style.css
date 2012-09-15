@@ -6,7 +6,7 @@ body
 #main
 {
 	width: 100%;			/* no mover */
-	height: 1000px;
+	height: 800px;
 	/*max-width: 955px;		/* establecer este limite */
 	margin: auto;
 	background-color: #787878;		/* ajustar */
@@ -72,11 +72,17 @@ ul#menu_inline li a:hover
 {
 	color: #FFFFFF;				/* ajustar */
 }
+#content_slider{
+	margin-top: 4em;			/* ajustar */	
+	text-align: center;
+	width: 100%;
+	color: #FFFFFF;				/* ajustar */
+}
 
 #content {
 	margin-top: 4em;			/* ajustar */	
 	text-align: center;
-	max-width: 900px;		/* establecer este limite */
+	max-width: 900%;		/* establecer este limite */
 	color: #FFFFFF;				/* ajustar */
 }
 #footer
